@@ -1,0 +1,5 @@
+# Camera
+persist.vendor.low.cutoff.                      u:object_r:vendor_camera_prop:s0
+vendor.camera.sensor.logsystem                  u:object_r:vendor_camera_prop:s0
+vendor.panel.display                            u:object_r:vendor_camera_prop:s0
+

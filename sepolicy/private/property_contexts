@@ -1,0 +1,12 @@
+# Camera
+persist.camera.                                 u:object_r:vendor_camera_prop:s0
+ro.camera.                                      u:object_r:vendor_camera_prop:s0
+ro.camera.req.fmq.                              u:object_r:exported_default_prop:s0
+ro.camera.res.fmq.                              u:object_r:exported_default_prop:s0
+
+# Xiaomi specific build properties
+ro.fota.oem                                     u:object_r:exported_system_prop:s0
+ro.mi.os.                                       u:object_r:exported_system_prop:s0
+ro.miui.                                        u:object_r:exported_system_prop:s0
+ro.miui.region			                u:object_r:exported_system_prop:s0
+ro.miui.build.region				u:object_r:exported_system_prop:s0
